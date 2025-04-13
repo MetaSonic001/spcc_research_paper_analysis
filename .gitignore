@@ -1,0 +1,3 @@
+# Ignore sensitive Streamlit files
+.streamlit/secrets.toml
+.streamlit/credentials.toml
